@@ -1,7 +1,7 @@
 # Evil-WinRM Dockerfile
 
 # Base image
-FROM ruby:slim
+FROM ruby:3-slim-bullseye
 
 # Credits & Data
 LABEL \
